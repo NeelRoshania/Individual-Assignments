@@ -1,0 +1,3 @@
+,Model,Transformation Method,AUC,AIC,R2,Precision,Sig. features,Notes
+0,LinReg,"Transform continuous, scale count and discrete",0.7612172112287161,1283.260445872786,0.7969118727478488,0.86,10,Converged on all transformed and scaled features
+0,Logit,"Transform continuous, scale count and discrete",0.7651192667587053,1081.25305492082,0.42487725887277905,0.8487654320987654,8,Converged on all transformed and scaled features

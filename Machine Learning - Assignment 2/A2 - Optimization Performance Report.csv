@@ -1,0 +1,7 @@
+,Model,Transformation Method,AUC,AIC,R2,Precision,Sig. features,Notes
+0,LinReg,None,0.7776978831109066,1258.3858946795308,0.4336489338173938,0.859375,17,Failed to converge on unscaled/transformed variables
+0,Lgst,Scale all,0.5,2037.9007391990183,-0.01970852526838396,0.6735112936344969,0,Failed to converge on scaled continuous and count features
+0,LinReg,Scale all,0.7776978831109066,1258.3858946795317,0.4336489338173938,0.859375,18,Failed to converge scaled continuous and count features
+0,Logit,Scale all,0.7634990029145574,1112.2657876407197,0.48669067912058006,0.8466257668711656,0,Failed to converge scaled continuous and count features
+0,LinReg,"Transform continuous, scale count and discrete",0.7813219052001842,1233.1979615754767,0.44334241030267696,0.8717105263157895,15,"Failed to converge on transformed continuous, scaled count & discrete features"
+0,Logit,"Transform continuous, scale count and discrete",0.7745532290228563,1103.9428347271614,0.49124402569257064,0.8566978193146417,0,Failed to converge on scaled continuous and count features
